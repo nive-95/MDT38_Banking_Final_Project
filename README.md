@@ -14,6 +14,5 @@ This repository contains two data science projects developed as part of the MDT3
 
 ## How to Use
 - Navigate to the respective project folder for detailed information, technical documentation, and code.
-- Each project includes its own README and tech doc for implementation details.
 
 ---
